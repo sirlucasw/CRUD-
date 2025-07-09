@@ -39,27 +39,8 @@ A interface possui:
     - 📋 Listar usuários
     - ❌ Sair
 
-
-git clone <https://github.com/seuusuario/seurepositorio.git>
-cd seurepositorio
-
 2. Instale as dependências:
 pip install bcrypt
 
 3. Execute o programa:
 python nome_do_arquivo.py
-
-
-Todos os integrantes do grupo trabalharam de forma igualitária na hora de fazer o código, ajudando nas pesquisas e na formatação dos arquivos presentes, sem precisar atribuir tarefas individuais.
-
-Alunos:
-
--Enzo Antônio Soares Silva
-
--Lucas Gabriel Da Silva Santana
-
--Lucas Silva De Souza
-
--Tiago Filipe Azevedo Da Silva
-
--Kauã Oliveira Matos  Borba
