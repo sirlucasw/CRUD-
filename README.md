@@ -12,6 +12,7 @@ Este projeto é uma aplicação simples com interface gráfica desenvolvida em P
 ## 🚀 Funcionalidades
 
 - ✅ Cadastro de usuários com nome, email e senha
+- ✅ Atualização de usuário
 - ✅ Login de usuários com verificação de senha criptografada
 - ✅ Listagem de todos os usuários cadastrados
 - ✅ Interface gráfica amigável com `tkinter`
@@ -35,8 +36,10 @@ A interface possui:
 - Campos de entrada para nome, email e senha
 - Botões para:
     - 📥 Cadastrar
-    - 🔐 Login
     - 📋 Listar usuários
+    - ✏ Editar Usuários
+    - 🔐 Login
+    - 🗑 Excluir
     - ❌ Sair
 
 2. Instale as dependências:
